@@ -1,0 +1,4 @@
+Bundle-Name: paqqets-org
+Bundle-SymbolicName: paqqets.org
+Bundle-Version: 1.0.0
+Bundle-ClassPath: .,libs/json-simple-1.1.jar
